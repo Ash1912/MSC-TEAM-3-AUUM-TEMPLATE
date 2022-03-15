@@ -509,6 +509,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	.r-footer {
 	flex: 1 0px;
 	}
+}
 
 @media (max-width: 1024px) {
 #about img {
